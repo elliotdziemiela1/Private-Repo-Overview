@@ -1,5 +1,5 @@
 # Private-Repo-Overview
-Overview of private repos where access can be granted upon request sent to elliotanthony9@gmail.com.
+Reports on some of my private repos can be found as PDFs in this repo. Access to any of my private repos can be granted upon request sent to elliotanthony9@gmail.com.
 ## Private Repos:
 ### NOS
 An operating system written in C and x86 Assembly. Key features include virtual memory (paging), a file system, device drivers (i.e. keyboard drivers), system calls, and process scheduling.
